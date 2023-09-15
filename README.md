@@ -2,20 +2,26 @@
 
 My name is JiSeok Hwang.
 
-<!--
 **circlemonkey/circlemonkey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
+ - Financial Engineering
+ - Quant Investment
+ - Mechine Learning
+ - Deep Learning
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+ - Quant Project
+ - Mechine Learning Project
+ - Deep Learning Project
+ - Kaggle Project
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - Dev
+- 😄 Pronouns
+ - Quant Developer
+- ⚡ Fun fact
+ - Hobby : 사진찍기, 웨이트 트레이닝
+ - MBTI : INTJ
+
 
 <!--
 # 강조(Emphasis)

@@ -1,7 +1,5 @@
 # Hi there 👋
 
-## My name is JiSeok Hwang.
-
 - 🌱 I’m currently learning ...
     - Financial Engineering
     - Quant Investment

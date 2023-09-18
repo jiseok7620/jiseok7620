@@ -1,8 +1,6 @@
-### Hi there 👋
+# Hi there 👋
 
-My name is JiSeok Hwang.
-
-**circlemonkey/circlemonkey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My name is JiSeok Hwang.
 
 - 🌱 I’m currently learning ...
     - Financial Engineering

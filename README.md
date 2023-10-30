@@ -13,7 +13,7 @@
 - 💬 Ask me about ...
     - Dev
 - 😄 Pronouns
-    - Quant Developer
+    - Financial Developer
 - ⚡ Fun fact
     - Hobby : Take Pictures, Weight Trainning
     - MBTI : INTJ
